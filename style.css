@@ -9,7 +9,7 @@ body {
 
 header {
   height: 500px;
-  background: url("/assets/Layer7.png");
+  background: url("assets/Layer7.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -119,7 +119,7 @@ header {
 .intro-grid-item_1 {
   grid-column: 1 / span 2;
   grid-row: 1 / span 1;
-  background: url("/assets/Layer10.png");
+  background: url("assets/Layer10.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -190,7 +190,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/assets/Layer11.png");
+  background: url("assets/Layer11.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -253,7 +253,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/assets/Layer13.png");
+  background: url("assets/Layer13.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -263,7 +263,7 @@ header {
 .intro-grid-item_4 {
   grid-column: 2 / span 2;
   grid-row: 2 / span 1;
-  background: url("/assets/Layer12.png");
+  background: url("assets/Layer12.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -282,7 +282,7 @@ header {
 .intro-grid-item_5 {
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
-  background: url("/assets/Layer15.png");
+  background: url("assets/Layer15.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -353,7 +353,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/assets/Layer16.png");
+  background: url("assets/Layer16.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -363,7 +363,7 @@ header {
 .intro-grid-item_7 {
   grid-column: 3 / span 1;
   grid-row: 3 / span 1;
-  background: url("/assets/Layer14.png");
+  background: url("assets/Layer14.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
